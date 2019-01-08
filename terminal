@@ -6,10 +6,10 @@ import threading
 import time
 
 # 配置服务器信息
-HOSTS = '120.79.53.126'
-PORT = 22
-USERNAME = 'root'
-PASSWORD = 'Huaxialongyu199624'
+HOSTS = ''
+PORT = 
+USERNAME = ''
+PASSWORD = ''
 
 
 class MyThread(threading.Thread):
